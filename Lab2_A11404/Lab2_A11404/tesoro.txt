@@ -1,0 +1,28 @@
+
+Inventario de Monedas
+    Código     Valor      Peso
+     M-001        25       142
+     M-002        98       110
+     M-003        68       185
+     M-004        80       189
+     M-005        23       168
+
+Inventario de Collares
+    Código     Valor      Peso
+     C-001      2353       536
+     C-002      3377       542
+     C-003      2137       959
+     C-004      3438       591
+
+Inventario de Coronas
+    Código     Valor      Peso
+    Cn-001      6996      1557
+
+Inventario de Anillos
+    Código     Valor      Peso
+     A-001       149       202
+     A-002       118       244
+     A-003       139       215
+     A-004       150       258
+     A-005       199       221
+     A-006       102       231
